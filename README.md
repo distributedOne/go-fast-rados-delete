@@ -1,0 +1,1 @@
+# go-fast-rados-delete
